@@ -17,3 +17,5 @@ Analyze restaurant data to extract insights on ratings, cuisines, and pricing.
 - Popular cuisines dominate demand
 - Price does not strongly affect ratings
 
+## Link for the dataset
+https://www.kaggle.com/datasets/bhanupratapbiswas/zomato
